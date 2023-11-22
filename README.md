@@ -13,6 +13,7 @@ The map is procedurally generated in Map.cpp using Perlin noise to create height
 
 
 Settlements 
+
 ![Picture1](https://github.com/Quilver/market-simulator/assets/6962010/7c9216b6-f51a-4589-adce-97b3001cd715)
 
 In the figure above the brown patches represent human settlements, with the red dot in the centre representing the city. 
